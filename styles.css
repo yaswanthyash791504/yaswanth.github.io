@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin-top: 0;
+    color: #00235B; 
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    margin: 70px auto 0 auto;
+}
+
+.Top-container {
+    background-color: #ECF9FF;
+    padding-top: 100px;
+}
+
+.Top-Cloud {
+    position: absolute;
+    right:350px;
+    top: 100px;
+}
+
+.Bottom-Cloud {
+    position: absolute;
+    bottom: 350px;
+    left: 300px;
+}   
+
+.Yaswanth-logo {
+    height: 250px;
+}
+
+.middle-container {
+    padding: 0px
+}
+
+h2 {
+    color:#609966;
+    font-size: 40px;
+    font-weight: 30px;
+    font-family: 'Merriweather', serif;
+    width: 30%;
+    margin: 100px auto;
+}
+
+h3 {
+    color:#609966;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    color:#00235B;
+    font-size: 1.5rem;
+    padding-top: 10px;
+}
+
+.Mountain {
+    margin-top: 80px;
+    height: 355px;
+    width: 600px;
+}
+
+.profile {
+    margin: 80px auto;
+    width: 50%;
+}
+
+.intro{
+    font-size: 20px;
+    width: 30%;
+    margin: auto;
+}
+
+hr{
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+    color: rgba(128, 128, 128, 0.644);
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    padding: 50px;
+}
+
+.Computer-img {
+    float: left;
+    padding-left: 10px;
+    height: 190px; 
+    position: relative;
+    right: 35px;
+    top: 10px;
+}
+
+.description-computer {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.description-chillies {
+    font-size: 20px;
+    line-height: 1.5;
+
+}
+
+.Chillies-img {
+    float: right;
+    height: 200px;
+}
+
+.contact-me {
+    margin-bottom: 100px;
+    width: 70%;
+    margin: 20px auto;
+}
+
+.contact-me p {
+    margin: 30px auto 100px;
+    width:50%;
+}
+
+.bottom-container {
+    background-color: #ECF9FF;
+    margin-top: 100px;
+    padding: 50px 0 20px;
+    
+}
+
+.footer-link {
+    margin: auto 30px;
+    color:#609966;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+.footer-link:hover {
+    color:#00235B;
+}
+
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    -webkit-box-shadow: 0px 1px 3px #666666;
+    -moz-box-shadow: 0px 1px 3px #666666;
+    box-shadow: 0px 1px 3px #666666;
+    font-family: Arial;
+    color: #fff;
+    font-size: 18px;
+    background: rgba(96, 153, 102, 0.788);
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    ;
+}
+
+  .btn:hover {
+      background: #609966;
+      text-decoration: none;
+    }
+    
+    .copyright {
+        color: #00235B;
+        margin: 30px auto 0;
+        font-size: 12px;
+        font-family: 'Montserrat', sans-serif;
+    }
